@@ -1,0 +1,7 @@
+[W]>[F]
+[F]>[D]
+[D]>[W]
+[up]>[down]
+[down]>[up]
+[bspace]>[space]
+[space]>[bspace]

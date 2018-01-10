@@ -1,0 +1,7 @@
+[escape]>[delete]
+[kp-rwin]>[kp-ralt]
+[up]>[down]
+[down]>[up]
+[delete]>[escape]
+[ralt]>[rwin]
+[kp-ralt]>[kp-rwin]
